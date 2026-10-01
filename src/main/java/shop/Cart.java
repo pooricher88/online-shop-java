@@ -1,4 +1,4 @@
-Add Cart classpackage shop;
+package shop;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
